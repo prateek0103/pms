@@ -1,0 +1,53 @@
+html {
+    overflow: hidden;
+}
+.card {
+    background-color: white;
+}
+#loginrow {
+    margin-top: 15%;
+}
+#logintitle {
+    color: #000000;
+}
+#login {
+    position: relative;
+    left: 23%;
+}
+.newpd{
+height: 100px;
+    background-color: #ffffff;
+}
+
+.newpd:hover{
+ background-color: #f0f0f0;
+}
+#pdtext {
+    position: relative;
+    top: 22%;
+}
+#newopddetails {
+    display: none;
+    height: auto;
+}
+#newipddetails {
+    display: none;
+    height: auto;
+}
+#opdform {
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#newpatienttab {
+    display: none;
+}
+#opdtab {
+    display: none;
+}
+#ipdtab {
+    display: none;
+}
+#mgmttab {
+    display: none;
+}
